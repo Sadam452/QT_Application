@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/new/rsc">
+        <file>resume.html</file>
+    </qresource>
+</RCC>
