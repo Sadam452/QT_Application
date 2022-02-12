@@ -7,6 +7,20 @@
 5) Set text back to normal form
 6) "About me" section, where my resume can be displayed.
 
+# How to install?
+    Download latest version zip.
+    Unzip the file.
+    Open otf files with Font Viewer.
+    Click Install on Top Right Corner.
+    Install qt5:
+    $ sudo apt-get install qt5-default
+    Go to folder "TextEditorIIT", compile TextEditorIIT.pro and make:
+
+    $ cd TextEditorIIT
+    $ qmake TextEditorIIT.pro
+    $ make
+    Ignore the warnings(If any).
+
 # How to run the code?(Terminal)
 1) Go to terminal, cd to folder /TextEditorIIT
 2) execute the command: ./TextEditorIIT
